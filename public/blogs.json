@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "cover": "/images/react.jpg",
+    "title": "React কি এবং কেন ব্যবহার করা হয়?",
+    "details": "React হল একটি জনপ্রিয় JavaScript লাইব্রেরি যা ইউজার ইন্টারফেস তৈরি করতে ব্যবহৃত হয়। এটি কম্পোনেন্ট ভিত্তিক, যা কোড পুনঃব্যবহারযোগ্য এবং দ্রুত রেন্ডারিং নিশ্চিত করে।",
+    "author": "রাফায়েল হোসেন",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "posted_date": "2025-08-30",
+    "reading_time": 5,
+    "hashtags": ["React", "JavaScript", "Frontend"]
+  },
+  {
+    "id": 2,
+    "cover": "/images/state.jpg",
+    "title": "React State এবং Props এর ব্যবহার",
+    "details": "React এর State এবং Props হল দুটি গুরুত্বপূর্ণ বৈশিষ্ট্য। State হলো কম্পোনেন্টের অভ্যন্তরীণ তথ্য সংরক্ষণ করার জন্য, আর Props হলো প্যারেন্ট থেকে চাইল্ড কম্পোনেন্টে ডেটা পাঠানোর জন্য।",
+    "author": "সুমন চৌধুরী",
+    "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
+    "posted_date": "2025-08-28",
+    "reading_time": 7,
+    "hashtags": ["React", "State", "Props"]
+  },
+  {
+    "id": 3,
+    "cover": "/images/hooks.jpg",
+    "title": "React Hooks এর পরিচিতি",
+    "details": "Hooks হল React 16.8 থেকে এসেছে। এটি ফাংশনাল কম্পোনেন্টে State এবং Lifecycle ফিচার ব্যবহারের সহজ উপায় দেয়। সবচেয়ে জনপ্রিয় হল useState, useEffect, useContext।",
+    "author": "আনিসুর রহমান",
+    "author_img": "https://randomuser.me/api/portraits/men/55.jpg",
+    "posted_date": "2025-08-25",
+    "reading_time": 10,
+    "hashtags": ["React", "Hooks", "useState", "useEffect"]
+  },
+  {
+    "id": 4,
+    "cover": "/images/native.jpg",
+    "title": "React Native দিয়ে মোবাইল অ্যাপ ডেভেলপমেন্ট",
+    "details": "React Native হলো React এর উপর ভিত্তি করে মোবাইল অ্যাপ তৈরি করার লাইব্রেরি। এটি iOS এবং Android উভয়ের জন্য একই কোডবেস ব্যবহার করতে দেয়।",
+    "author": "মো. তানভীর",
+    "author_img": "https://randomuser.me/api/portraits/men/23.jpg",
+    "posted_date": "2025-08-22",
+    "reading_time": 2,
+    "hashtags": ["ReactNative", "MobileApp", "React"]
+  },
+  {
+    "id": 5,
+    "cover": "/images/router.jpg",
+    "title": "React Router দিয়ে Navigation",
+    "details": "React Router হলো একটি লাইব্রেরি যা React এ SPA (Single Page Application) এ নেভিগেশন সহজ করে। এটি Route, Link, Navigate কম্পোনেন্ট ব্যবহার করে পেজ পরিবর্তন করে।",
+    "author": "রাশেদ মিয়া",
+    "author_img": "https://randomuser.me/api/portraits/men/67.jpg",
+    "posted_date": "2025-08-20",
+    "reading_time": 6,
+    "hashtags": ["React", "ReactRouter", "SPA"]
+  },
+  {
+    "id": 6,
+    "cover": "/images/context.jpg",
+    "title": "React Context API ব্যবহার করে Global State ম্যানেজ করা",
+    "details": "Context API ব্যবহার করে React এ Global State তৈরি করা যায়, যা Props drilling এড়াতে সাহায্য করে। এটি useContext Hook দিয়ে সহজেই ব্যবহৃত হয়।",
+    "author": "শারমিন আক্তার",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "posted_date": "2025-08-18",
+    "reading_time": 8,
+    "hashtags": ["React", "ContextAPI", "GlobalState"]
+  },
+  {
+    "id": 7,
+    "cover": "/images/form.jpg",
+    "title": "React এ Form Handling",
+    "details": "React এ ফর্ম ম্যানেজ করা সহজ। Controlled এবং Uncontrolled ফর্মের মধ্যে পার্থক্য বোঝা গুরুত্বপূর্ণ। Controlled ফর্মে React state দিয়ে ডেটা হ্যান্ডেল করা হয়।",
+    "author": "আলিম উদ্দিন",
+    "author_img": "https://randomuser.me/api/portraits/men/77.jpg",
+    "posted_date": "2025-08-15",
+    "reading_time": 9,
+    "hashtags": ["React", "FormHandling", "ControlledForm"]
+  },
+  {
+    "id": 8,
+    "cover": "/images/performance.jpg",
+    "title": "React Performance Optimization টিপস",
+    "details": "React Performance উন্নত করতে Memoization, Lazy Loading, Code Splitting ইত্যাদি ব্যবহার করা হয়। এটি রেন্ডারিং দ্রুত করে এবং অ্যাপকে রেসপন্সিভ রাখে।",
+    "author": "নাজমুল হক",
+    "author_img": "https://randomuser.me/api/portraits/men/88.jpg",
+    "posted_date": "2025-08-12",
+    "reading_time": 11,
+    "hashtags": ["React", "Performance", "Optimization"]
+  },
+  {
+    "id": 9,
+    "cover": "/images/firebase.jpg",
+    "title": "React এর সঙ্গে Firebase ইন্টিগ্রেশন",
+    "details": "Firebase এর Authentication এবং Firestore ব্যবহার করে React অ্যাপে ব্যাকএন্ড ফিচার সহজেই যোগ করা যায়। এটি ছোট প্রজেক্টের জন্য খুবই কার্যকর।",
+    "author": "হাসান মাহমুদ",
+    "author_img": "https://randomuser.me/api/portraits/men/12.jpg",
+    "posted_date": "2025-08-10",
+    "reading_time": 13,
+    "hashtags": ["React", "Firebase", "Authentication"]
+  },
+  {
+    "id": 10,
+    "cover": "/images/unit.jpg",
+    "title": "React এ Unit Testing",
+    "details": "React কম্পোনেন্টের জন্য Jest এবং React Testing Library ব্যবহার করে Unit Testing করা যায়। এটি কোডের বাগ ধরতে এবং অ্যাপের স্থিতিশীলতা নিশ্চিত করতে সাহায্য করে।",
+    "author": "ফারহান বিন হাসান",
+    "author_img": "https://randomuser.me/api/portraits/men/39.jpg",
+    "posted_date": "2025-08-08",
+    "reading_time": 10,
+    "hashtags": ["React", "Testing", "Jest"]
+  }
+]
